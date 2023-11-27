@@ -89,7 +89,7 @@ melalui XAMPP.
  
 ## **Result**
 
-![gif](gambar/demi.gif)
+![gif](gambar/demo.gif)
 
 <hr>
 
